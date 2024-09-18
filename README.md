@@ -3,7 +3,7 @@
 ![alt text](https://github.com/SangrafHuang/Icon/blob/main/2021-10-02.jpg?raw=true)
 ![alt text](?raw=true)
 ![alt text](https://github.com/SangrafHuang/Icon/blob/main/logo.png?raw=true)
-![alt text](?raw=true)
+![alt text](https://github.com/SangrafHuang/Icon/blob/main/LogoMasjid.png?raw=true)
 ![alt text](?raw=true)
 ![alt text](?raw=true)
 ![alt text](?raw=true)
